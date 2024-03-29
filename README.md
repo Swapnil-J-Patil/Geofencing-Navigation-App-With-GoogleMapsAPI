@@ -1,4 +1,4 @@
-This repository hosts a navigation app built using the Google Maps API. The app provides users with detailed directions to their destination, including turn-by-turn navigation and real-time traffic updates. 
+This repository hosts a navigation app built using the Google Maps API. The app provides users with detailed directions to their destination. 
 Additionally, it offers custom marker functionality to enhance the user experience and includes geofencing features for large structures.<br><br>
 <B> Current Location icon:</B> The icon will point towards the direction you are facing.<br><br>
 ![Screenshot (29)](https://github.com/Swapnil-J-Patil/GoogleMapDirectionApp/assets/129786110/f7f7b794-3519-44e3-b432-d5f33719990b)<br><br>
