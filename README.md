@@ -1,6 +1,6 @@
 This repository hosts a navigation app built using the Google Maps API. The app provides users with detailed directions to their destination. 
 Additionally, it offers custom marker functionality to enhance the user experience and includes geofencing features for large structures.<br><br>
-<B> Current Location icon:</B> The icon will point towards the direction you are facing.<br><br>
+<B> Current Location icon:</B> The icon will show your current loaction and will point towards the direction you are facing.<br><br>
 ![Screenshot (29)](https://github.com/Swapnil-J-Patil/GoogleMapDirectionApp/assets/129786110/f7f7b794-3519-44e3-b432-d5f33719990b)<br><br>
 <B> Custom Markers:</B> Click on the red colored markers and get route from current location to that marker.</B><br><br>
 ![Screenshot (30)](https://github.com/Swapnil-J-Patil/GoogleMapDirectionApp/assets/129786110/9b210969-68ce-4f6d-9f04-8bc52a7a335f)<br><br>
