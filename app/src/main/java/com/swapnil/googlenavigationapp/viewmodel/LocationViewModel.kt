@@ -56,7 +56,7 @@ class LocationViewModel : ViewModel() {
     }
     // Function to fetch route asynchronously
     suspend fun fetchRoute(source: String, destination: String):List<LatLng>? {
-        val apiKey = "AIzaSyC2GeVN63qnAS6E3KG50tZNIYcRJw5MMH8"
+        val apiKey = "Your_API_key"
         val url = "https://maps.googleapis.com/maps/api/directions/json" +
                 "?origin=$source" +
                 "&destination=$destination" +
@@ -89,7 +89,7 @@ class LocationViewModel : ViewModel() {
     }
     // Function to fetch steps asynchronously
     suspend fun fetchSteps(source: String, destination: String): List<RouteStep>? {
-        val apiKey = "AIzaSyC2GeVN63qnAS6E3KG50tZNIYcRJw5MMH8" // Replace with your API key
+        val apiKey = "Your_API_key" // Replace with your API key
         val url = "https://maps.googleapis.com/maps/api/directions/json" +
                 "?origin=$source" +
                 "&destination=$destination" +
