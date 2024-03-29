@@ -15,7 +15,7 @@
         android:theme="@style/Theme.GoogleNavigationApp"
         tools:targetApi="31">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyC2GeVN63qnAS6E3KG50tZNIYcRJw5MMH8"/>
+            android:value="Your_API_key"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
